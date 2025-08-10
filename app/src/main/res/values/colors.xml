@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Periwinkle palette and roles -->
+    <color name="periwinkle_1">#9A9CEA</color>
+    <color name="periwinkle_2">#A2B9EE</color>
+    <color name="periwinkle_3">#A2DCEE</color>
+    <color name="periwinkle_4">#ADEEE2</color>
+
+    <color name="md3_primary">#9A9CEA</color>
+    <color name="md3_on_primary">#FFFFFFFF</color>
+    <color name="md3_secondary">#A2B9EE</color>
+    <color name="md3_on_secondary">#FF101112</color>
+    <color name="md3_surface">#FFF6F7FF</color>
+    <color name="md3_on_surface">#FF111318</color>
+    <color name="md3_surface_variant">#FFE7E8FF</color>
+    <color name="md3_on_surface_variant">#FF2A2D34</color>
+    <color name="md3_background">#FFFFFFFF</color>
+    <color name="md3_on_background">#FF111318</color>
+
+    <!-- Dark -->
+    <color name="md3_primary_dark">#B7B8FF</color>
+    <color name="md3_on_primary_dark">#FF0B0B0B</color>
+    <color name="md3_secondary_dark">#7BA1F0</color>
+    <color name="md3_on_secondary_dark">#FF0B0B0B</color>
+    <color name="md3_surface_dark">#FF111318</color>
+    <color name="md3_on_surface_dark">#FFE6E8EF</color>
+    <color name="md3_surface_variant_dark">#FF1B1E24</color>
+    <color name="md3_on_surface_variant_dark">#FFC7CAD3</color>
+    <color name="md3_background_dark">#FF0E1014</color>
+    <color name="md3_on_background_dark">#FFE6E8EF</color>
+</resources>
+
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Appmux" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md3_primary</item>
+        <item name="colorOnPrimary">@color/md3_on_primary</item>
+        <item name="colorSecondary">@color/md3_secondary</item>
+        <item name="colorOnSecondary">@color/md3_on_secondary</item>
+        <item name="colorSurface">@color/md3_surface</item>
+        <item name="colorOnSurface">@color/md3_on_surface</item>
+        <item name="colorSurfaceVariant">@color/md3_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/md3_on_surface_variant</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/md3_surface</item>
+        <item name="android:navigationBarColor" tools:targetApi="l">@color/md3_surface</item>
+        <item name="materialCardViewStyle">@style/Appmux.Card</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Appmux.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardElevation">8dp</item>
+        <item name="cardCornerRadius">24dp</item>
+        <item name="rippleColor">@color/md3_on_surface_variant</item>
+    </style>
+</resources>
+
+

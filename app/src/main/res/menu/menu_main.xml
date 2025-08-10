@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_toggle_theme"
+        android:title="@string/menu_theme"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/menu_settings"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/menu_about"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_rate"
+        android:title="@string/menu_rate"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_feedback"
+        android:title="@string/menu_feedback"
+        android:showAsAction="never" />
+</menu>
+
+
